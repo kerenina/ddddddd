@@ -1,0 +1,435 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		BC1A17B823737AF1003DA139 /* model.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC1A17B723737AF1003DA139 /* model.swift */; };
+		BC249D48237CBD5E0082FA9D /* data.json in Resources */ = {isa = PBXBuildFile; fileRef = BC249D47237CBD5E0082FA9D /* data.json */; };
+		BC249D4C237CC0D90082FA9D /* Ruta.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC249D4B237CC0D90082FA9D /* Ruta.swift */; };
+		BC46FC1A2385F61600986F3C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC46FC192385F61600986F3C /* ViewController.swift */; };
+		BC8A9FE7238D8BDD00E45C46 /* ico-alberca.png in Resources */ = {isa = PBXBuildFile; fileRef = BC8A9FE6238D8BDD00E45C46 /* ico-alberca.png */; };
+		BC8A9FEB238D8CD300E45C46 /* icono-ciencias.png in Resources */ = {isa = PBXBuildFile; fileRef = BC8A9FEA238D8CD300E45C46 /* icono-ciencias.png */; };
+		BC8A9FF1238D8FF000E45C46 /* icono-inge.png in Resources */ = {isa = PBXBuildFile; fileRef = BC8A9FF0238D8FF000E45C46 /* icono-inge.png */; };
+		BC8A9FF3238D921B00E45C46 /* icono-veterinaria.png in Resources */ = {isa = PBXBuildFile; fileRef = BC8A9FF2238D921B00E45C46 /* icono-veterinaria.png */; };
+		BC8A9FF5238D934500E45C46 /* icono_economia.png in Resources */ = {isa = PBXBuildFile; fileRef = BC8A9FF4238D934500E45C46 /* icono_economia.png */; };
+		BCA55C4F2370CB6D002579A0 /* icono-quimica.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C3B2370CB6C002579A0 /* icono-quimica.png */; };
+		BCA55C502370CB6D002579A0 /* icono-derecho.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C3C2370CB6C002579A0 /* icono-derecho.png */; };
+		BCA55C522370CB6D002579A0 /* Icono-Arquitectura.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C3E2370CB6C002579A0 /* Icono-Arquitectura.png */; };
+		BCA55C552370CB6D002579A0 /* icono-filos.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C412370CB6D002579A0 /* icono-filos.png */; };
+		BCA55C562370CB6D002579A0 /* icono-ts.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C422370CB6D002579A0 /* icono-ts.png */; };
+		BCA55C572370CB6D002579A0 /* icono-torre.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C432370CB6D002579A0 /* icono-torre.png */; };
+		BCA55C582370CB6D002579A0 /* icono-recto.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C442370CB6D002579A0 /* icono-recto.png */; };
+		BCA55C592370CB6D002579A0 /* icono-conta.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C452370CB6D002579A0 /* icono-conta.png */; };
+		BCA55C5A2370CB6D002579A0 /* icono-medicina.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C462370CB6D002579A0 /* icono-medicina.png */; };
+		BCA55C5B2370CB6D002579A0 /* icono-psicologia.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C472370CB6D002579A0 /* icono-psicologia.png */; };
+		BCA55C5D2370CB6D002579A0 /* icono-polacas.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C492370CB6D002579A0 /* icono-polacas.png */; };
+		BCA55C5E2370CB6D002579A0 /* icono-odonto.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C4A2370CB6D002579A0 /* icono-odonto.png */; };
+		BCA55C5F2370CB6D002579A0 /* icono-ccu.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C4B2370CB6D002579A0 /* icono-ccu.png */; };
+		BCA55C602370CB6D002579A0 /* icono-cele.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C4C2370CB6D002579A0 /* icono-cele.png */; };
+		BCA55C612370CB6D002579A0 /* icono-psiquiatria.png in Resources */ = {isa = PBXBuildFile; fileRef = BCA55C4D2370CB6D002579A0 /* icono-psiquiatria.png */; };
+		BCE5E3912357A68000735AEC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCE5E3902357A68000735AEC /* AppDelegate.swift */; };
+		BCE5E3962357A68000735AEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCE5E3942357A68000735AEC /* Main.storyboard */; };
+		BCE5E3982357A68100735AEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BCE5E3972357A68100735AEC /* Assets.xcassets */; };
+		BCE5E39B2357A68100735AEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCE5E3992357A68100735AEC /* LaunchScreen.storyboard */; };
+		BCFF4341237C95510056F58B /* Localizacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCFF4340237C95510056F58B /* Localizacion.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		BC1A17B723737AF1003DA139 /* model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = model.swift; sourceTree = "<group>"; };
+		BC249D47237CBD5E0082FA9D /* data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = data.json; sourceTree = "<group>"; };
+		BC249D4B237CC0D90082FA9D /* Ruta.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ruta.swift; sourceTree = "<group>"; };
+		BC46FC192385F61600986F3C /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BC8A9FE6238D8BDD00E45C46 /* ico-alberca.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ico-alberca.png"; sourceTree = "<group>"; };
+		BC8A9FEA238D8CD300E45C46 /* icono-ciencias.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-ciencias.png"; sourceTree = "<group>"; };
+		BC8A9FF0238D8FF000E45C46 /* icono-inge.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icono-inge.png"; path = "../../../icono-inge.png"; sourceTree = "<group>"; };
+		BC8A9FF2238D921B00E45C46 /* icono-veterinaria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-veterinaria.png"; sourceTree = "<group>"; };
+		BC8A9FF4238D934500E45C46 /* icono_economia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icono_economia.png; sourceTree = "<group>"; };
+		BCA55C3B2370CB6C002579A0 /* icono-quimica.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-quimica.png"; sourceTree = "<group>"; };
+		BCA55C3C2370CB6C002579A0 /* icono-derecho.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-derecho.png"; sourceTree = "<group>"; };
+		BCA55C3E2370CB6C002579A0 /* Icono-Arquitectura.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icono-Arquitectura.png"; sourceTree = "<group>"; };
+		BCA55C412370CB6D002579A0 /* icono-filos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-filos.png"; sourceTree = "<group>"; };
+		BCA55C422370CB6D002579A0 /* icono-ts.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-ts.png"; sourceTree = "<group>"; };
+		BCA55C432370CB6D002579A0 /* icono-torre.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-torre.png"; sourceTree = "<group>"; };
+		BCA55C442370CB6D002579A0 /* icono-recto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-recto.png"; sourceTree = "<group>"; };
+		BCA55C452370CB6D002579A0 /* icono-conta.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-conta.png"; sourceTree = "<group>"; };
+		BCA55C462370CB6D002579A0 /* icono-medicina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-medicina.png"; sourceTree = "<group>"; };
+		BCA55C472370CB6D002579A0 /* icono-psicologia.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-psicologia.png"; sourceTree = "<group>"; };
+		BCA55C492370CB6D002579A0 /* icono-polacas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-polacas.png"; sourceTree = "<group>"; };
+		BCA55C4A2370CB6D002579A0 /* icono-odonto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-odonto.png"; sourceTree = "<group>"; };
+		BCA55C4B2370CB6D002579A0 /* icono-ccu.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-ccu.png"; sourceTree = "<group>"; };
+		BCA55C4C2370CB6D002579A0 /* icono-cele.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-cele.png"; sourceTree = "<group>"; };
+		BCA55C4D2370CB6D002579A0 /* icono-psiquiatria.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icono-psiquiatria.png"; sourceTree = "<group>"; };
+		BCE5E38D2357A68000735AEC /* Georeferencia.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Georeferencia.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BCE5E3902357A68000735AEC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BCE5E3952357A68000735AEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BCE5E3972357A68100735AEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BCE5E39A2357A68100735AEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BCE5E39C2357A68100735AEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCFF4340237C95510056F58B /* Localizacion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localizacion.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		BCE5E38A2357A68000735AEC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		BCE5E3842357A68000735AEC = {
+			isa = PBXGroup;
+			children = (
+				BCE5E38F2357A68000735AEC /* Georeferencia */,
+				BCE5E38E2357A68000735AEC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		BCE5E38E2357A68000735AEC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				BCE5E38D2357A68000735AEC /* Georeferencia.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		BCE5E38F2357A68000735AEC /* Georeferencia */ = {
+			isa = PBXGroup;
+			children = (
+				BCE5E3902357A68000735AEC /* AppDelegate.swift */,
+				BC46FC192385F61600986F3C /* ViewController.swift */,
+				BCE5E3942357A68000735AEC /* Main.storyboard */,
+				BC8A9FE6238D8BDD00E45C46 /* ico-alberca.png */,
+				BCA55C3E2370CB6C002579A0 /* Icono-Arquitectura.png */,
+				BC8A9FF4238D934500E45C46 /* icono_economia.png */,
+				BC8A9FEA238D8CD300E45C46 /* icono-ciencias.png */,
+				BC8A9FF0238D8FF000E45C46 /* icono-inge.png */,
+				BCA55C4B2370CB6D002579A0 /* icono-ccu.png */,
+				BCA55C4C2370CB6D002579A0 /* icono-cele.png */,
+				BCA55C452370CB6D002579A0 /* icono-conta.png */,
+				BCA55C3C2370CB6C002579A0 /* icono-derecho.png */,
+				BCA55C412370CB6D002579A0 /* icono-filos.png */,
+				BCA55C462370CB6D002579A0 /* icono-medicina.png */,
+				BCA55C4A2370CB6D002579A0 /* icono-odonto.png */,
+				BCA55C492370CB6D002579A0 /* icono-polacas.png */,
+				BCA55C472370CB6D002579A0 /* icono-psicologia.png */,
+				BCA55C422370CB6D002579A0 /* icono-ts.png */,
+				BCA55C4D2370CB6D002579A0 /* icono-psiquiatria.png */,
+				BCA55C3B2370CB6C002579A0 /* icono-quimica.png */,
+				BCA55C442370CB6D002579A0 /* icono-recto.png */,
+				BCA55C432370CB6D002579A0 /* icono-torre.png */,
+				BC8A9FF2238D921B00E45C46 /* icono-veterinaria.png */,
+				BCE5E3972357A68100735AEC /* Assets.xcassets */,
+				BCE5E3992357A68100735AEC /* LaunchScreen.storyboard */,
+				BCE5E39C2357A68100735AEC /* Info.plist */,
+				BC1A17B723737AF1003DA139 /* model.swift */,
+				BCFF4340237C95510056F58B /* Localizacion.swift */,
+				BC249D47237CBD5E0082FA9D /* data.json */,
+				BC249D4B237CC0D90082FA9D /* Ruta.swift */,
+			);
+			path = Georeferencia;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		BCE5E38C2357A68000735AEC /* Georeferencia */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BCE5E39F2357A68100735AEC /* Build configuration list for PBXNativeTarget "Georeferencia" */;
+			buildPhases = (
+				BCE5E3892357A68000735AEC /* Sources */,
+				BCE5E38A2357A68000735AEC /* Frameworks */,
+				BCE5E38B2357A68000735AEC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Georeferencia;
+			productName = Georeferencia;
+			productReference = BCE5E38D2357A68000735AEC /* Georeferencia.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BCE5E3852357A68000735AEC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1030;
+				LastUpgradeCheck = 1030;
+				ORGANIZATIONNAME = JM;
+				TargetAttributes = {
+					BCE5E38C2357A68000735AEC = {
+						CreatedOnToolsVersion = 10.3;
+					};
+				};
+			};
+			buildConfigurationList = BCE5E3882357A68000735AEC /* Build configuration list for PBXProject "Georeferencia" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = BCE5E3842357A68000735AEC;
+			productRefGroup = BCE5E38E2357A68000735AEC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BCE5E38C2357A68000735AEC /* Georeferencia */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BCE5E38B2357A68000735AEC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BCA55C552370CB6D002579A0 /* icono-filos.png in Resources */,
+				BCA55C602370CB6D002579A0 /* icono-cele.png in Resources */,
+				BCA55C522370CB6D002579A0 /* Icono-Arquitectura.png in Resources */,
+				BCA55C592370CB6D002579A0 /* icono-conta.png in Resources */,
+				BC8A9FE7238D8BDD00E45C46 /* ico-alberca.png in Resources */,
+				BCA55C5E2370CB6D002579A0 /* icono-odonto.png in Resources */,
+				BCA55C5F2370CB6D002579A0 /* icono-ccu.png in Resources */,
+				BC249D48237CBD5E0082FA9D /* data.json in Resources */,
+				BCA55C5A2370CB6D002579A0 /* icono-medicina.png in Resources */,
+				BC8A9FEB238D8CD300E45C46 /* icono-ciencias.png in Resources */,
+				BCA55C5B2370CB6D002579A0 /* icono-psicologia.png in Resources */,
+				BCA55C562370CB6D002579A0 /* icono-ts.png in Resources */,
+				BCA55C4F2370CB6D002579A0 /* icono-quimica.png in Resources */,
+				BCE5E39B2357A68100735AEC /* LaunchScreen.storyboard in Resources */,
+				BCA55C612370CB6D002579A0 /* icono-psiquiatria.png in Resources */,
+				BC8A9FF3238D921B00E45C46 /* icono-veterinaria.png in Resources */,
+				BCA55C572370CB6D002579A0 /* icono-torre.png in Resources */,
+				BC8A9FF1238D8FF000E45C46 /* icono-inge.png in Resources */,
+				BCE5E3982357A68100735AEC /* Assets.xcassets in Resources */,
+				BCE5E3962357A68000735AEC /* Main.storyboard in Resources */,
+				BCA55C502370CB6D002579A0 /* icono-derecho.png in Resources */,
+				BCA55C582370CB6D002579A0 /* icono-recto.png in Resources */,
+				BCA55C5D2370CB6D002579A0 /* icono-polacas.png in Resources */,
+				BC8A9FF5238D934500E45C46 /* icono_economia.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		BCE5E3892357A68000735AEC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BC46FC1A2385F61600986F3C /* ViewController.swift in Sources */,
+				BCFF4341237C95510056F58B /* Localizacion.swift in Sources */,
+				BCE5E3912357A68000735AEC /* AppDelegate.swift in Sources */,
+				BC1A17B823737AF1003DA139 /* model.swift in Sources */,
+				BC249D4C237CC0D90082FA9D /* Ruta.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		BCE5E3942357A68000735AEC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BCE5E3952357A68000735AEC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		BCE5E3992357A68100735AEC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				BCE5E39A2357A68100735AEC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		BCE5E39D2357A68100735AEC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		BCE5E39E2357A68100735AEC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		BCE5E3A02357A68100735AEC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Georeferencia/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.JM.Georeferencia;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		BCE5E3A12357A68100735AEC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Georeferencia/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.JM.Georeferencia;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		BCE5E3882357A68000735AEC /* Build configuration list for PBXProject "Georeferencia" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCE5E39D2357A68100735AEC /* Debug */,
+				BCE5E39E2357A68100735AEC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		BCE5E39F2357A68100735AEC /* Build configuration list for PBXNativeTarget "Georeferencia" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				BCE5E3A02357A68100735AEC /* Debug */,
+				BCE5E3A12357A68100735AEC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BCE5E3852357A68000735AEC /* Project object */;
+}

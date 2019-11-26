@@ -1,0 +1,164 @@
+[
+    {
+        "Titulo": "Trabajo social",
+        "Subtitulo":"ENTS",
+        "Foto":"ts",
+        "Icono":"icono-ts",
+        "Longitud": -99.18681,
+        "Latitud":  19.32387
+    },
+    {
+        "Titulo": "Arquitectura",
+        "Subtitulo":"Arquiternura",
+        "Foto":"ar",
+        "Icono": "icono-Arquitectura",
+        "Longitud": -99.18638,
+        "Latitud": 19.33117
+    },
+    {
+        "Titulo": "Ciencias",
+        "Subtitulo":"equis",
+        "Foto":"ciencias",
+        "Icono": "icono-ciencias",
+        "Longitud": -99.17965,
+        "Latitud": 19.32409
+    },
+    {
+        "Titulo": "Politicas",
+        "Subtitulo":"Polacas",
+        "Foto":"polacas",
+        "Icono": "icono-polacas",
+        "Longitud": -99.17763,
+        "Latitud": 19.31851
+    },
+    {
+        "Titulo":"Contadurìa",
+        "Subtitulo":"Vecinos de los dioses",
+        "Foto":"conta",
+        "Icono": "icono-conta",
+        "Longitud": -99.18468,
+        "Latitud": 19.32496
+    },
+    {
+        "Titulo":"Derecho",
+        "Subtitulo":"Trajeados",
+        "Foto":"derecho",
+        "Icono": "icono-derecho",
+        "Longitud": -99.18536,
+        "Latitud": 19.33446
+    },
+    {
+        "Titulo":"Economía",
+        "Subtitulo":"Trajeados 2.0",
+        "Foto":"eco",
+        "Icono": "icono_economia",
+        "Longitud": -99.18372,
+        "Latitud": 19.33447
+    },
+    {
+        "Titulo":"Filosofía",
+        "Subtitulo":"Filos",
+        "Foto":"filos",
+        "Icono": "icono-filos",
+        "Longitud": -99.18670,
+        "Latitud": 19.33430
+    },
+    
+    {
+        "Titulo":"Ingeniería",
+        "Subtitulo":"Dioses",
+        "Foto":"inge",
+        "Icono": "icono-inge",
+        "Longitud": -99.18462,
+        "Latitud": 19.33139
+    },
+    {
+        "Titulo":"Medicina",
+        "Subtitulo":"Batitas",
+        "Foto":"medicina",
+        "Icono": "icono-medicina",
+        "Longitud": -99.179822,
+        "Latitud": 19.33319
+    },
+    {
+        "Titulo":"Veterinaría",
+        "Subtitulo":"Cachorritos",
+        "Foto":"veterinaria",
+        "Icono": "icono-veterinaria",
+        "Longitud": -99.17696,
+        "Latitud": 19.32980
+    },
+    {
+        "Titulo": "Psiquiatría",
+        "Subtitulo":"Jokers",
+        "Foto":"psiquiatria",
+        "Icono": "icono-psiquiatria",
+        "Longitud": -99.17816,
+        "Latitud": 19.33244,
+    },
+    {
+        "Titulo": "Odontología",
+        "Subtitulo": "Dientitos",
+        "Foto": "odonto",
+        "Icono": "icono-odonto",
+        "Longitud": -99.18153,
+        "Latitud": 19.33421
+    },
+    {
+        "Titulo": "Psicología",
+        "Subtitulo":"Profes",
+        "Foto":"psicologia",
+        "Icono": "icono-psicologia",
+        "Longitud": -99.18846,
+        "Latitud": 19.33571
+    },
+    {
+        "Titulo": "Química",
+        "Subtitulo":"Buhos",
+        "Foto":"quimica",
+        "Icono": "icono-quimica",
+        "Longitud": -99.18127,
+        "Latitud": 19.33164
+    },
+    {
+        "Titulo": "Torre II de Humanidades",
+        "Subtitulo":"Copia",
+        "Foto":"torre",
+        "Icono": "icono-torre",
+        "Longitud": -99.18298,
+        "Latitud": 19.33331
+    },
+    {
+        "Titulo": "Centro Cultural Universitario",
+        "Subtitulo":"CCU",
+        "Foto":"ccu",
+        "Icono": "icono-ccu",
+        "Longitud": -99.18534,
+        "Latitud": 19.31406,
+    },
+    {
+        "Titulo": "Rectoría",
+        "Subtitulo":"Casita",
+        "Foto":"recto",
+        "Icono": "icono-recto",
+        "Longitud": -99.18820,
+        "Latitud": 19.33219
+    },
+    {
+        "Titulo": "ENALLT",
+        "Subtitulo":"CELE",
+        "Foto": "enallt",
+        "Icono": "icono-cele",
+        "Longitud": -99.18300,
+        "Latitud": 19.33150
+    },
+    {
+        "Titulo": "Alberca",
+        "Subtitulo":"Olimpica",
+        "Foto": "alberca",
+        "Icono": "ico-alberca.jpg",
+        "Longitud": -99.18511,
+        "Latitud": 19.33006
+    }
+    
+]
